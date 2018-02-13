@@ -1,0 +1,17 @@
+{
+  "name": "starter-jwt",
+  "version": "1.0.0",
+  "description": "setup for json web token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jwt",
+    "json",
+    "\u001b[A\u001b[A\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[\u001b[C\u001b[B\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[B\u001b[D\u001b[D\u001b[Cweb",
+    "token"
+  ],
+  "author": "Darcy DeAngelo-Woolsey",
+  "license": "ISC"
+}
